@@ -6,5 +6,5 @@ import '@/styles/common.less';
 import '@/styles/reset.less';
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
-    <App/>
+    <App />
 )
