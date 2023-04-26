@@ -1,12 +1,12 @@
-import React from 'react'
-import LayoutIndex from './layouts'
+import React from "react"
+import Login from "./views/login/Login"
 
 function App() {
-  return (
-    <>
-      <LayoutIndex/>
-    </>
-  )
+	return (
+		<>
+			<Login />
+		</>
+	)
 }
 
 export default App

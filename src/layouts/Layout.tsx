@@ -45,7 +45,7 @@ const LayoutIndex: React.FC = () => {
 			</Sider>
 			<Layout>
 				<Header style={{ padding: 0, background: colorBgContainer }} />
-				<Content style={{ margin: "24px 16px 0" ,height:"100%"}}>
+				<Content style={{ margin: "24px 16px 0", height: "100%" }}>
 					<div style={{ padding: 24, minHeight: 360, background: colorBgContainer }}>content</div>
 				</Content>
 				<Footer style={{ textAlign: "center" }}>Ant Design ©2023 Created by Ant UED</Footer>
